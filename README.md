@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiutrun</a></h1>
 <h3 align="center">Mobile Application Developer </h3>
-<br>
-<p align="center">
-	<a href="https://fb.com/hiutrun0x0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hiutrun0x0" height="30" width="30" /></a>
-	<a href="https://instagram.com/hiutrun0x0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hiutrun0x0" height="30" width="30" /></a>
-	<a href="https://twitter.com/hiutrun0x0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hiutrun0x0" height="30" width="30" /></a>
-	<a href="https://linkedin.com/in/trung-hieu-luong-422457146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="trung-hieu-luong-422457146/" height="30" width="30" /></a>
-	<a href="https://www.hackerrank.com/trunghieuluongit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="trunghieuluongit" height="30" width="30" /></a>
-</p>
 
 ## 💁‍♂️ Some infomations about me: <br>
 

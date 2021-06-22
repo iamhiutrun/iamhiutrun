@@ -3,7 +3,7 @@
 
 ## 💁‍♂️ Some infomations about me: <br>
 
-- 🔭 I’m currently studying at [Vietnam Academy of Cryptography Technicques](http://actvn.edu.vn/)
+- 🔭 I’m currently studying at [Vietnam Academy of Cryptography Techniques](http://actvn.edu.vn/)
 - 🌱 I’m currently learning Android(Kotlin) and Flutter
 - 📫 How to reach me: [Twitter - @hiutrun0x0](https://twitter.com/hiutrun0x0), [Instagram - @hiutrun0x0](https://instagram.com/hiutrun0x0)
 - ⚡ Fun fact: I spent 18.002 mins (12.5 days) listening on Spotify in 2020.
